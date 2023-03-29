@@ -7,7 +7,9 @@ Descripción de nuestro e-comerce: Nuestro Proyecto está enfocado en la venta d
 Páginas que nos sirvieron de inspiración:
 
  . mercalibre.com
+
  .  myherbalife.com
+
  .  https://www.legis.com.co/
 
 
