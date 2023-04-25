@@ -1,0 +1,26 @@
+{
+  "name": "proyecto-dh",
+  "version": "1.0.0",
+  "description": "Descripción de nuestro e-comerce: Nuestro Proyecto está enfocado en la venta de productos electrónicos importados. Nos destacamos por la buena calidad del servicio y de los productos que brindamos a nuestros clientes. Nos aseguramos que la entrega de los productos sea en los tiempos establecidos y que la experiencia de usuario sea la adecuada. Nuestra visión es ser líder en el segmento manteniendo siempre una buena sinergia entre producto, calidad y precio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "normalize.css": "^8.0.1"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francolovisolo/Grupo_1_VentaImportados.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Francolovisolo/Grupo_1_VentaImportados/issues"
+  },
+  "homepage": "https://github.com/Francolovisolo/Grupo_1_VentaImportados#readme"
+}
